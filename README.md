@@ -14,7 +14,7 @@ Currently, I am working on the impact of massive neutrinos on large-scale cosmic
 - SciPy  
 - Matplotlib  
 - MATLAB  
-- And Mabey more? :)  
+- And Maybe more? :)  
 
 ## Current Projects  
 I am currently working on Quijote cosmological data and simulating large-scale cosmic structures.  
