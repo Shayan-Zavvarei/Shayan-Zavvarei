@@ -32,30 +32,20 @@ I am currently working on Quijote cosmological data and simulating large-scale c
 
 ## Contact Me
 
-<div align="center" style="text-align:center;">
-
-  <a href="mailto:shayanzavvarei@gmail.com" style="display:block; margin-bottom:15px; text-decoration:none; color:black;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" width="150"/>
-    <br>shayanzavvarei@gmail.com
+<p align="center" style="gap: 20px; display: flex; justify-content: center; align-items: center;">
+  <a href="mailto:shayanzavvarei@gmail.com" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" width="100"/>
   </a>
-
-  <a href="https://www.linkedin.com/in/shayan-zavvarei-245628228/" style="display:block; margin-bottom:15px; text-decoration:none; color:#0A66C2;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="150"/>
-    <br>in/shayan-zavvarei-245628228
+  <a href="https://www.linkedin.com/in/shayan-zavvarei-245628228/" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100"/>
   </a>
-
-  <a href="https://x.com/shyzvr" style="display:block; margin-bottom:15px; text-decoration:none; color:black;">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge" width="150"/>
-    <br>@shyzvr
+  <a href="https://x.com/shyzvr" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge" width="100"/>
   </a>
-
-  <a href="https://t.me/shyzvr" style="display:block; margin-bottom:15px; text-decoration:none; color:#2CA5E0;">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" width="150"/>
-    <br>https://t.me/shyzvr
+  <a href="https://t.me/shyzvr" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" width="100"/>
   </a>
-
-</div>
-
+</p>
 
 I’d be happy to chat with you!
 
