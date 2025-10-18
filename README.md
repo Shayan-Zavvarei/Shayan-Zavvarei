@@ -42,7 +42,7 @@ I am currently working on Quijote cosmological data and simulating large-scale c
   </a>
 
   <a href="https://x.com/shyzvr" style="margin: 0 15px;">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge" height="40"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="" height="40"/>
   </a>
 
   <a href="https://t.me/shyzvr" style="margin: 0 15px;">
