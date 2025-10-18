@@ -9,12 +9,13 @@ Currently, I am working on the impact of massive neutrinos on large-scale cosmic
 - Cosmological data   
 
 ## Skills  
-- Python  
-- NumPy  
-- SciPy  
-- Matplotlib  
-- MATLAB  
-- And Maybe more? :)  
+## Skills
+<img src="https://simpleicons.org/icons/python.svg" width="40" alt="Python" />
+<img src="https://simpleicons.org/icons/numpy.svg" width="40" alt="NumPy" />
+<img src="https://simpleicons.org/icons/scipy.svg" width="40" alt="SciPy" />
+<img src="https://simpleicons.org/icons/matplotlib.svg" width="40" alt="Matplotlib" />
+<img src="https://simpleicons.org/icons/matlab.svg" width="40" alt="MATLAB" />
+<img src="https://simpleicons.org/icons/question.svg" width="40" alt="And Maybe more? :)" />
 
 ## Current Projects  
 I am currently working on Quijote cosmological data and simulating large-scale cosmic structures.  
