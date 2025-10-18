@@ -41,8 +41,8 @@ I am currently working on Quijote cosmological data and simulating large-scale c
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="40"/>
   </a>
 
-  <a href="https://x.com/shyzvr" style="margin: 0 15px;">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge" height="40"/>
+  <a href="https://x.com/shyzvr" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X" height="40"/>
   </a>
 
   <a href="https://t.me/shyzvr" style="margin: 0 15px;">
