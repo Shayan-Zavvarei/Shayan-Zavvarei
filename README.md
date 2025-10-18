@@ -8,10 +8,20 @@ Currently, I am working on the impact of massive neutrinos on large-scale cosmic
 - Neutrino physics  
 - Cosmological data   
 
-## Skills  
-## Skills
-| <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="30" alt="Python" /> | <img src="https://numpy.org/images/logo.svg" width="30" alt="NumPy" /> | <img src="https://scipy.org/images/logo.svg" width="30" alt="SciPy" /> | <img src="https://matplotlib.org/_static/logo2.svg" width="30" alt="Matplotlib" /> | <img src="https://www.mathworks.com/about/company/profile/photos/mathworks-logo.png" width="30" alt="MATLAB" /> | <img src="https://simpleicons.org/icons/question.svg" width="30" alt="And Maybe more? :)" /> |
-| --- | --- | --- | --- | --- | --- |
+## Skills 
+
+<div align="center">
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+</div>
+
 
 ## Current Projects  
 I am currently working on Quijote cosmological data and simulating large-scale cosmic structures.  
