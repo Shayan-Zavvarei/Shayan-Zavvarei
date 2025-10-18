@@ -8,7 +8,7 @@ Currently, I am working on the impact of massive neutrinos on large-scale cosmic
 - Neutrino physics  
 - Cosmological data   
 
-## Skills 
+## Skills
 
 <div align="center">
   
@@ -17,11 +17,15 @@ Currently, I am working on the impact of massive neutrinos on large-scale cosmic
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Computational Physics](https://img.shields.io/badge/Computational%20Physics-5D3FD3?style=for-the-badge&logo=atom&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00C853?style=for-the-badge&logo=ai&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-FF9800?style=for-the-badge&logo=python&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Pine Script](https://img.shields.io/badge/Pine%20Script-009688?style=for-the-badge&logo=tradingview&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-00BFFF?style=for-the-badge&logo=chart-bar&logoColor=white)
 
 </div>
-
 
 ## Current Projects  
 I am currently working on Quijote cosmological data and simulating large-scale cosmic structures.  
