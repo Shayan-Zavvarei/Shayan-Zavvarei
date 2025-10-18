@@ -32,22 +32,28 @@ I am currently working on Quijote cosmological data and simulating large-scale c
 
 ## Contact Me
 
-<p align="center">
-  <a href="mailto:shayanzavvarei@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=20232a" alt="Email Badge" width="120"/>
+<p align="center" style="gap: 30px; display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+
+  <a href="mailto:shayanzavvarei@gmail.com" style="margin: 0 15px;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" width="120"/>
   </a>
-  <a href="https://www.linkedin.com/in/shayan-zavvarei-245628228/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=20232a" alt="LinkedIn Badge" width="120"/>
+
+  <a href="https://www.linkedin.com/in/shayan-zavvarei-245628228/" style="margin: 0 15px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="120"/>
   </a>
-  <a href="https://x.com/shyzvr">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=20232a" alt="X Badge" width="120"/>
+
+  <a href="https://x.com/shyzvr" style="margin: 0 15px;">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge" width="120"/>
   </a>
-  <a href="https://t.me/shyzvr">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=20232a" alt="Telegram Badge" width="120"/>
+
+  <a href="https://t.me/shyzvr" style="margin: 0 15px;">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" width="120"/>
   </a>
-  <a href="https://orcid.org/0009-0002-2937-9053">
-    <img src="https://img.shields.io/badge/ORCID-8A9A5B?style=for-the-badge&logo=orcid&logoColor=white&labelColor=20232a" alt="ORCID Badge" width="120"/>
+
+  <a href="https://orcid.org/0009-0002-2937-9053" style="margin: 0 15px;">
+    <img src="https://img.shields.io/badge/ORCID-8A9A5B?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Badge" width="120"/>
   </a>
+
 </p>
 
 I’d be happy to chat with you!
