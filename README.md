@@ -31,9 +31,21 @@ Currently, I am working on the impact of massive neutrinos on large-scale cosmic
 I am currently working on Quijote cosmological data and simulating large-scale cosmic structures.  
 
 ## Contact Me  
-If you’d like to get in touch:  
-- Email: shayanzavvarei@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/shayan-zavvarei-245628228/ 
+<p align="center">
+  <a href="mailto:shayanzavvarei@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shayan-zavvarei-245628228/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://x.com/shyzvr">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
+  </a>
+  <a href="https://t.me/shyzvr">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</p>
+
 I’d be happy to chat with you!
 
 Bye bye! 😄  
