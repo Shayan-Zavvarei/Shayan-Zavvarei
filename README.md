@@ -30,21 +30,32 @@ Currently, I am working on the impact of massive neutrinos on large-scale cosmic
 ## Current Projects  
 I am currently working on Quijote cosmological data and simulating large-scale cosmic structures.  
 
-## Contact Me  
-<p align="center">
-  <a href="mailto:shayanzavvarei@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+## Contact Me
+
+<div align="center" style="text-align:center;">
+
+  <a href="mailto:shayanzavvarei@gmail.com" style="display:block; margin-bottom:15px; text-decoration:none; color:black;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" width="150"/>
+    <br>shayanzavvarei@gmail.com
   </a>
-  <a href="https://www.linkedin.com/in/shayan-zavvarei-245628228/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+
+  <a href="https://www.linkedin.com/in/shayan-zavvarei-245628228/" style="display:block; margin-bottom:15px; text-decoration:none; color:#0A66C2;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="150"/>
+    <br>in/shayan-zavvarei-245628228
   </a>
-  <a href="https://x.com/shyzvr">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
+
+  <a href="https://x.com/shyzvr" style="display:block; margin-bottom:15px; text-decoration:none; color:black;">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge" width="150"/>
+    <br>@shyzvr
   </a>
-  <a href="https://t.me/shyzvr">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+
+  <a href="https://t.me/shyzvr" style="display:block; margin-bottom:15px; text-decoration:none; color:#2CA5E0;">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" width="150"/>
+    <br>https://t.me/shyzvr
   </a>
-</p>
+
+</div>
+
 
 I’d be happy to chat with you!
 
